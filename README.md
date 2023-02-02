@@ -11,4 +11,5 @@ sh ./gradlew clean bootRun
 ```bash
 Testing for rebase feature
 Testing for rebase feature 2
+Testing for rebase feature 3
 ```
